@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://giuseppedavino.github.io/quiete/sitemap.xml
